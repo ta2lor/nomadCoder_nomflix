@@ -32,7 +32,7 @@
       "react-app/jest"
     ]
   },
-  "homepage":"https://ta2lor.github.io/nomflix",
+  "homepage":"https://serene-johnson-e71fbc.netlify.app",
   "browserslist": {
     "production": [
       ">0.2%",
