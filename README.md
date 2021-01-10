@@ -10,8 +10,7 @@
 
 ## code challenges
 
--[] IMDB Link
--[] Tabs inside of Movie / Show Details (Youtube, Production Company & Countries)
+-[X] IMDB Link -[X] Tabs inside of Movie / Show Details (Youtube, Production Company & Countries)
 -[] Collections Link
 -[] /collection Routes
 -[] On Tv Show, show seasons and creators
